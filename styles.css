@@ -1,0 +1,10 @@
+span{
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+div{
+  boarder: 2px solid crimson;
+  margin: 20px;
+  padding: 20px;
+}
